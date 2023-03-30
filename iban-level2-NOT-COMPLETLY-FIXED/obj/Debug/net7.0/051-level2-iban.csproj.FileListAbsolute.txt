@@ -1,0 +1,15 @@
+C:\Users\User\Documents\HTL\Pro\051-level2-iban\bin\Debug\net7.0\051-level2-iban.exe
+C:\Users\User\Documents\HTL\Pro\051-level2-iban\bin\Debug\net7.0\051-level2-iban.deps.json
+C:\Users\User\Documents\HTL\Pro\051-level2-iban\bin\Debug\net7.0\051-level2-iban.runtimeconfig.json
+C:\Users\User\Documents\HTL\Pro\051-level2-iban\bin\Debug\net7.0\051-level2-iban.dll
+C:\Users\User\Documents\HTL\Pro\051-level2-iban\bin\Debug\net7.0\051-level2-iban.pdb
+C:\Users\User\Documents\HTL\Pro\051-level2-iban\obj\Debug\net7.0\051-level2-iban.csproj.AssemblyReference.cache
+C:\Users\User\Documents\HTL\Pro\051-level2-iban\obj\Debug\net7.0\051-level2-iban.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\HTL\Pro\051-level2-iban\obj\Debug\net7.0\051-level2-iban.AssemblyInfoInputs.cache
+C:\Users\User\Documents\HTL\Pro\051-level2-iban\obj\Debug\net7.0\051-level2-iban.AssemblyInfo.cs
+C:\Users\User\Documents\HTL\Pro\051-level2-iban\obj\Debug\net7.0\051-level2-iban.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\HTL\Pro\051-level2-iban\obj\Debug\net7.0\051-level2-iban.dll
+C:\Users\User\Documents\HTL\Pro\051-level2-iban\obj\Debug\net7.0\refint\051-level2-iban.dll
+C:\Users\User\Documents\HTL\Pro\051-level2-iban\obj\Debug\net7.0\051-level2-iban.pdb
+C:\Users\User\Documents\HTL\Pro\051-level2-iban\obj\Debug\net7.0\051-level2-iban.genruntimeconfig.cache
+C:\Users\User\Documents\HTL\Pro\051-level2-iban\obj\Debug\net7.0\ref\051-level2-iban.dll
